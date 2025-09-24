@@ -1,0 +1,50 @@
+{
+  "term": "Fall",
+  "year": "2012",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Developmental Economics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Political Economy"
+    ]
+  ],
+  "legacy_uid": "e0cd3e58-4fed-b93e-13ce-7edf8b5b6b55",
+  "instructors": {
+    "content": [
+      "e2d9fa4e-c860-960f-5031-d3380945e4bb"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "0b2ae845-6034-8b95-29a3-b04b766f989a",
+    "website": "14-75-political-economy-and-economic-development-fall-2012"
+  },
+  "course_title": "Political Economy and Economic Development",
+  "hide_download": false,
+  "course_description": "This course explores the relationship between political institutions and economic development, covering key theoretical issues as well as recent empirical evidence. Topics include corruption, democracy, dictatorship, and war. Discusses not just what we know on these topics, but how we know it, covering how to craft a good empirical study or field experiment and how to discriminate between reliable and unreliable evidence.\n\n**MITx Online Version**\n\nThis course is part of the Micromaster\u2019s Program in Data, Economics, and Design of Policy through MITx Online. The course is entirely free to audit, though learners have the option to pay a fee, which is based on the learner's ability to pay, to take the proctored exam, and earn a course certificate. To access the course, create an MITx Online account and enroll in the course {{% resource_link \"03001c89-e38f-498f-b848-8075c237df75\" \"14.750x Political Economy and Economic Development\" %}}.",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.75",
+  "course_image_thumbnail": {
+    "content": "7f13a1db-cba2-79ca-46a5-ffb243f15d67",
+    "website": "14-75-political-economy-and-economic-development-fall-2012"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "site_uid": "b6909368-fdc5-4ce5-bb94-34232e3abe26",
+  "site_short_id": "14.75-fall-2012",
+  "site_url_path": "courses/14-75-political-economy-and-economic-development-fall-2012",
+  "title": "Course Metadata"
+}
