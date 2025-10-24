@@ -10,7 +10,7 @@ title: Assignments
 uid: d6a225a5-c730-d347-75f2-d530822d6bc5
 ---
 
-Some of the assignments in this course are based on {{% resource_link "082a6d41-2226-44f8-9a4e-baac438a2865" "Stata" %}}, a piece of data and statistical analysis software. For a brief overview of using Stata, there is {{% resource_link b48e4cab-8642-5058-8097-ad9e25e2e63a "_An Introduction to Stata_ (PDF)" %}}, by Michael Anderson. (Courtesy of Michael Anderson. Used with permission.)
+Some of the assignments in this course are based on [Stata](http://www.stata.com/), a piece of data and statistical analysis software. For a brief overview of using Stata, there is {{% resource_link b48e4cab-8642-5058-8097-ad9e25e2e63a "_An Introduction to Stata_ (PDF)" %}}, by Michael Anderson. (Courtesy of Michael Anderson. Used with permission.)
 
 {{% resource_link 50334b21-dd23-8a4e-72d0-084b1c58d3ff "Problem Set 1 (PDF)" %}} – due session 3
 
